@@ -1,0 +1,4 @@
+Write a query to print the ID, FIRST_NAME, and LAST_NAMEs of the customers whose combined name length, i.e., the sum of the length of the FIRST_NAME and LAST_NAME, is less than 12. The IDs and names should be printed in the ascending order of the combined name length. If two or more customers have the same combined name length, sort the result in lexicographical order of the full names, ignoring case. If two or more customers have the same full name, sort those results by ID, ascending.
+
+
+
